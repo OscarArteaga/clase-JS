@@ -1,0 +1,6 @@
+.robotRow{
+    display:  grid;
+    grid-template-columns: repeat(auto-fit, minmax(10px, auto));
+    gap: 1.5rem;
+    padding: 2rem;
+}
